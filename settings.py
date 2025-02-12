@@ -7,3 +7,6 @@ ENV_ACCESS_LOGGER_FORMATTER = (
 )
 
 ENV_TZ = "Asia/Shanghai"
+
+ENV_DEEPSEEK_API_KEY = "1"
+ENV_BASE_DEEPSEEK_URL = "https://api.deepseek.com"
